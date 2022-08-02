@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate backend developer from Colombia 🇨🇴</h3>
 
-- 🌱 I’m currently learning **AWS, Database, NoSQL**
+- 🌱 I’m currently learning **Testing, AWS, Database, NoSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/smb43](https://github.com/smb43)
 
